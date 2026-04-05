@@ -227,7 +227,7 @@ rm -rf app/logs/
 
 ## Built For
 
-Created as a companion debug tool for OpenEMIS POCOR-9623 (Instant Messaging feature).  
+Created as a companion debug tool for OpenEMIS CORE Instant Messaging feature.  
 Useful for anyone building messaging integrations with multiple platforms.
 
 Learn more: https://www.openemis.org
